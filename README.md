@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! 👋
+
+#### I'm Patrick Marshall, a third-year computer engineering student at Virginia Commonwealth University! 
+
+Currently, I work as an undergraduate research assistant in the [HIVE Lab at VCU,](https://rampages.us/thehivelab/) funded by 
+the [VCU OpenCity project.](https://ieeexplore.ieee.org/abstract/document/9562813) I'm developing a 
+[ROS2](https://www.openrobotics.org/blog/2020/6/5/ros-2-foxy-fitzroy-release) package for the 
+[Waveshare PiRacer](https://www.waveshare.com/piracer-ai-kit.htm), which is why I have so much activity in private repositories. 
 
 <!--
 **marshallpt/marshallpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
