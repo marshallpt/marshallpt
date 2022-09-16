@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-#### I'm Patrick Marshall, a third-year computer engineering student at Virginia Commonwealth University! 
+#### I'm Patrick Marshall, a fourth-year computer engineering student at Virginia Commonwealth University! 
 
 Currently, I work as an undergraduate research assistant in the [HIVE Lab at VCU,](https://rampages.us/thehivelab/) funded by 
 the [VCU OpenCity project.](https://ieeexplore.ieee.org/abstract/document/9562813) I'm developing a 
