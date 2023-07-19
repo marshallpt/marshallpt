@@ -1,6 +1,6 @@
 ### Hello! 👋 I'm Patrick Marshall!
 
-Currently a working software developer, my personal Github contains what I mess around with in my freetime, as well as some of my undergraduate work.
+Currently a working software developer, my personal Github contains what I mess around with in my free time, as well as some of my undergraduate work.
 
 Previously worked as an undergraduate researcher in the [HIVE Lab at VCU,](https://rampages.us/thehivelab/) funded by 
 the [VCU OpenCity project.](https://ieeexplore.ieee.org/abstract/document/9562813) I developed a 
