@@ -1,4 +1,4 @@
-### Hello! 👋 I'm Patrick Marshall!
+### Hello! 👋 I'm Paige Marshall (she/they)!
 
 Currently a working software developer, my personal Github contains what I mess around with in my free time, as well as some of my undergraduate work.
 
